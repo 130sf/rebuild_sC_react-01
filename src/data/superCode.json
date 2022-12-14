@@ -1,0 +1,45 @@
+[{
+        "name": "Ahmed",
+        "age": 30,
+        "img": "https://www.super-code.de/img/team/Ahmed_Nasr_Trainer_Fullstack.png",
+        "id": 1
+    },
+    {
+        "name": "Steffen",
+        "age": 30,
+        "img": "https://www.super-code.de/img/team/Steffen_Kloempges_Trainer_Fullstack.png",
+        "id": 2
+    },
+    {
+        "name": "Cristian",
+        "age": 35,
+        "img": "https://www.super-code.de/img/team/Christian_Peters_Trainer_Fullstack.png",
+        "id": 3
+    },
+    {
+        "name": "Natalie",
+        "age": 35,
+        "img": "https://www.super-code.de/img/team/Natalie_Streich_Bewerbungscoaching.jpg",
+        "id": 4
+    },
+    {
+        "name": "Frederic",
+        "age": 30,
+        "img": "https://www.super-code.de/img/team/Frederic_Lahme_Trainer_Frontend.jpg",
+        "id": 5
+    },
+    {
+        "name": "Julia",
+        "age": 30,
+        "img": "https://www.super-code.de/img/team/Julia_Rintz_Trainerin_Frontend.png",
+        "id": 6
+    },
+    {
+        "name": "Henri",
+        "age": 30,
+        "img": "https://www.super-code.de/img/team/Henri_Delfmann_Bildungsberatung.jpg",
+        "id": 7
+    }
+
+
+]
